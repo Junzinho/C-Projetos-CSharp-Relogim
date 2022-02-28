@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\Relogim\bin\Debug\net6.0\Relogim.exe
+C:\Projetos\CSharp\Relogim\bin\Debug\net6.0\Relogim.deps.json
+C:\Projetos\CSharp\Relogim\bin\Debug\net6.0\Relogim.runtimeconfig.json
+C:\Projetos\CSharp\Relogim\bin\Debug\net6.0\Relogim.dll
+C:\Projetos\CSharp\Relogim\bin\Debug\net6.0\Relogim.pdb
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.AssemblyInfo.cs
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.dll
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\refint\Relogim.dll
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.pdb
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\Relogim.genruntimeconfig.cache
+C:\Projetos\CSharp\Relogim\obj\Debug\net6.0\ref\Relogim.dll
